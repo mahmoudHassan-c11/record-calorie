@@ -1,0 +1,20 @@
+.record {
+  background-color: var(--theme-background-light);
+  color: var(--theme-color-dark);
+  list-style: none;
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+  height: 80px;
+}
+
+.error {
+  background-color: red;
+  color: var(--theme-color-light);
+  text-align: center;
+  width: 100%;
+  padding: 10px 4px;
+  font-size: 22px;
+}

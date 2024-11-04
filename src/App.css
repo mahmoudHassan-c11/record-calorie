@@ -1,0 +1,22 @@
+.app {
+  width: 99%;
+  padding: 10px 30px;
+  margin: 30px;
+}
+
+.track {
+  padding: 15px 25px;
+  width: 200px;
+  display: block;
+  background-color: var(--theme-color-normal);
+  color: var(--theme-background-light);
+  margin: 0 auto;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}

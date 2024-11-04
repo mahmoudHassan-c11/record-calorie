@@ -1,0 +1,26 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --theme-background-ultaLight: #effaff;
+  --theme-background-normal: #a0d2eb;
+  --theme-background-light: #e5eaf5;
+  --theme-color-normal: #8458b3;
+  --theme-color-light: #d0bdf4;
+  --theme-color-dark: #a28089;
+}
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  max-width: 1024px;
+  margin: auto;
+  padding: 0 20px;
+}

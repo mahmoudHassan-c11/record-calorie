@@ -1,0 +1,10 @@
+.month {
+  font-size: 12px;
+  color: var(--theme-color-normal);
+}
+.day {
+  font-size: 24px;
+}
+.year {
+  font-size: 10px;
+}
